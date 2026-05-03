@@ -98,6 +98,16 @@ This launches a Gradio UI in your browser. Enter any research topic and click **
 
 ---
 
+## 📸 Screenshots
+
+**Gradio UI**
+![Gradio UI](screenshots/gradio_pic.png)  
+  
+**Email Output**
+![Email Output](screenshots/email_pic.png)
+
+---
+
 ## 📦 Key Dependencies
 
 - [`openai-agents`](https://github.com/openai/openai-agents-python) — Agent orchestration framework
